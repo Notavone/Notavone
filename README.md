@@ -19,6 +19,7 @@
 ## Programming language I have some affinity with
 
 - Javascript 💕
+- PHP 🍹
 - Python 🤙
 - Java 👀
 
