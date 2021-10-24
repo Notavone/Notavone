@@ -1,24 +1,23 @@
 ### Hi there 👋
 
-## Contact me (serious business only) :
-- 📫 Mail : notavone@gmail.com
-- 📫 Discord : Nøtavøne#7167
+## Contact me :
+- 📫 Mail: notavone@gmail.com
+- 📫 Mail: leo.hugonnot@edu.univ-fcomte.fr
+- 📫 Discord: Nøtavøne#7167
 
 ## About me
 
-- 👦 Name: Léo Hugonnot
-- ⌛ Age: 18
+- ⌛ Age: 19
 - 🏴 Country: France
-- 😄 Pronouns: He/Him
 
 ## Spoken language
 
-- French
-- English
+- French (C2)
+- English (B2)
 
-## Programming language I have some affinity with
+## Programming language I have affinity with
 
-- Javascript 💕
+- JavaScript & TypesScript 💕
 - PHP 🍹
 - Python 🤙
 - Java 👀
@@ -27,7 +26,7 @@
 
 I don't have much spare time to spend on my old projects rn, most of my recent release are linked to my CS degree, and (rarely) personnal projects that i'd really like to share
 
-## Some stats..
+## Some stats
 
 ![](https://github.com/notavone/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/notavone/github-stats/blob/master/generated/languages.svg)
