@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Contact me :
 - 📫 Mail: notavone@gmail.com
@@ -13,9 +13,9 @@
 ## Spoken language
 
 - French (C2)
-- English (B2)
+- English (C1)
 
-## Programming language I have affinity with
+## Programming languages I have affinity with
 
 - JavaScript & TypesScript 💕
 - PHP 🍹
