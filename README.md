@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C681INK)
+
 ## Contact me :
 - 📫 Mail: notavone@gmail.com
 - 📫 Mail: leo.hugonnot@edu.univ-fcomte.fr
