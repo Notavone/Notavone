@@ -1,15 +1,12 @@
 # Hi there 👋
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C681INK)
-
 ## Contact me :
 - 📫 Mail: notavone@gmail.com
-- 📫 Mail: leo.hugonnot@edu.univ-fcomte.fr
-- 📫 Discord: Nøtavøne#7167
+- 📫 Discord: Notavone#7167
 
 ## About me
 
-- ⌛ Age: 19
+- ⌛ Age: 20
 - 🏴 Country: France
 
 ## Spoken language
